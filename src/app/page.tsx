@@ -1,17 +1,16 @@
 import React from "react";
+import Header from "@/components/home/header";
+import SwitchTab from "@/components/home/switchTab";
+import Footer from "@/components/home/footer";
 
-export default function Home() {
+export default function Home(): JSX.Element {
   return (
-    <main>
-      <header className="p-6">
-        <h1 className="mb-2 text-center text-xl font-extrabold tracking-wide text-foreground md:mb-3 md:text-2xl">
-          Algorithm Visualizer
-        </h1>
-        <p className="text-center text-xs font-light tracking-wider text-foreground md:text-base">
-          Learn <strong>Data Structures</strong> and <strong>Algorithms</strong>{" "}
-          through animations.
-        </p>
-      </header>
-    </main>
+    <>
+      <Header />
+      <main className="mt-2 flex justify-center md:px-14 md:justify-start">
+        <SwitchTab />
+      </main>
+      <Footer />
+    </>
   );
 }

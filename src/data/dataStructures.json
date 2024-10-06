@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Array",
+    "link": "/",
+    "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*_qUuB7vQ716KuLp6bx3-oQ.png",
+    "alt": "Array data structure",
+    "description": "An array is a collection of elements identified by index or key, allowing for efficient access and manipulation of data. They are commonly used to store lists of items."
+  },
+  {
+    "title": "Linked List",
+    "link": "/",
+    "img": "#",
+    "alt": "Linked List data structure",
+    "description": "A linked list is a linear data structure where each element is a separate object, with each element (node) containing data and a reference (link) to the next node."
+  },
+  {
+    "title": "Stack",
+    "link": "/",
+    "img": "#",
+    "alt": "Stack data structure",
+    "description": "A stack is a linear data structure that follows the Last In, First Out (LIFO) principle, where the last item added is the first one to be removed."
+  },
+  {
+    "title": "Queue",
+    "link": "/",
+    "img": "#",
+    "alt": "Queue data structure",
+    "description": "A queue is a linear data structure that follows the First In, First Out (FIFO) principle, where the first item added is the first one to be removed."
+  },
+  {
+    "title": "Hash Table",
+    "link": "/",
+    "img": "#",
+    "alt": "Hash Table data structure",
+    "description": "A hash table is a data structure that implements an associative array, using a hash function to compute an index into an array of buckets or slots, from which the desired value can be found."
+  },
+  {
+    "title": "Tree",
+    "link": "/",
+    "img": "#",
+    "alt": "Tree data structure",
+    "description": "A tree is a hierarchical data structure consisting of nodes, with a single root node and zero or more child nodes, allowing for efficient searching and sorting."
+  },
+  {
+    "title": "Heap",
+    "link": "/",
+    "img": "#",
+    "alt": "Heap data structure",
+    "description": "A heap is a special tree-based data structure that satisfies the heap property, where the parent node is either greater than or equal to (max heap) or less than or equal to (min heap) its child nodes."
+  },
+  {
+    "title": "Graph",
+    "link": "/",
+    "img": "#",
+    "alt": "Graph data structure",
+    "description": "A graph is a collection of nodes (vertices) and edges connecting pairs of nodes, used to represent networks, relationships, and various structures in computer science."
+  }
+]

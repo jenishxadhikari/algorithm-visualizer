@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Searching",
+    "link": "/",
+    "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*_qUuB7vQ716KuLp6bx3-oQ.png",
+    "alt": "Searching algorithm",
+    "description": "Searching algorithms are used to retrieve information stored within some data structure. Common algorithms include linear search and binary search."
+  },
+  {
+    "title": "Sorting",
+    "link": "/",
+    "img": "#",
+    "alt": "Sorting algorithm",
+    "description": "Sorting algorithms arrange elements in a certain order (e.g., ascending or descending). Popular examples include Quick Sort, Merge Sort, and Bubble Sort."
+  },
+  {
+    "title": "Divide and Conquer",
+    "link": "/",
+    "img": "#",
+    "alt": "Divide and Conquer algorithm",
+    "description": "Divide and conquer algorithms work by recursively breaking down a problem into smaller subproblems until they are simple enough to be solved directly."
+  },
+  {
+    "title": "Backtracking",
+    "link": "/",
+    "img": "#",
+    "alt": "Backtracking algorithm",
+    "description": "Backtracking is an algorithmic technique for solving problems incrementally, building candidates for solutions and abandoning those candidates when they fail to satisfy the constraints."
+  },
+  {
+    "title": "Dynamic Programming",
+    "link": "/",
+    "img": "#",
+    "alt": "Dynamic Programming algorithm",
+    "description": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results of these subproblems to avoid redundant computations."
+  },
+  {
+    "title": "Greedy",
+    "link": "/",
+    "img": "#",
+    "alt": "Greedy algorithm",
+    "description": "Greedy algorithms make the locally optimal choice at each stage with the hope of finding a global optimum. Examples include Kruskal's and Prim's algorithms for minimum spanning trees."
+  }
+]
