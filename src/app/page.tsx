@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "@/components/home/header";
+import {Header} from "@/components/home/header";
 import SwitchTab from "@/components/home/switchTab";
-import Footer from "@/components/home/footer";
+import {Footer} from "@/components/home/footer";
 
 export default function Home(): JSX.Element {
   return (

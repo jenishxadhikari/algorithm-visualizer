@@ -11,12 +11,18 @@ interface Data {
   description: string;
 }
 
-export default function PreviewCard({title, link, img, alt, description}: Data): JSX.Element {
+export const PreviewCard = ({
+  title,
+  link,
+  img,
+  alt,
+  description,
+}: Data): JSX.Element => {
   return (
-    <Card className="bg-secondary/80 mx-auto w-60 md:mx-0">
+    <Card className="mx-auto w-60 bg-secondary/80 md:mx-0">
       <figure className="p-3">
         <Image
-          src="/images/sorting.png"
+          src={img}
           width={240}
           height={100}
           alt={alt}
@@ -32,4 +38,4 @@ export default function PreviewCard({title, link, img, alt, description}: Data):
       </CardHeader>
     </Card>
   );
-}
+};

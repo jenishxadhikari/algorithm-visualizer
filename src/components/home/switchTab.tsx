@@ -1,7 +1,7 @@
 import React from "react";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "../ui/tabs";
-import AlgoContainer from "./algoContainer";
-import DsContainer from "./dsContainer";
+import { AlgoContainer } from "./algoContainer";
+import { DsContainer } from "./dsContainer";
 
 export default function SwitchTab(): JSX.Element {
   return (

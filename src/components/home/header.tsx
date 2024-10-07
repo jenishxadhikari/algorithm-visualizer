@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Header(): JSX.Element {
+export const Header = (): JSX.Element => {
   return (
     <header className="p-6">
       <h1 className="mb-2 text-center text-xl font-extrabold tracking-wide text-foreground md:mb-3 md:text-2xl">
@@ -12,4 +12,4 @@ export default function Header(): JSX.Element {
       </h2>
     </header>
   );
-}
+};
