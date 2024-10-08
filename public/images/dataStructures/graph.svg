@@ -1,0 +1,15 @@
+<svg width="256" height="144" viewBox="0 0 256 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="144" fill="#E4E4E7"/>
+<rect x="74.5" y="60.5" width="20" height="20" rx="10" fill="#22D3EE" stroke="black"/>
+<rect x="117.5" y="32.5" width="20" height="20" rx="10" fill="#818CF8" stroke="black"/>
+<rect x="162.5" y="60.5" width="20" height="20" rx="10" fill="#A3E635" stroke="black"/>
+<rect x="32.5" y="60.5" width="20" height="20" rx="10" fill="#F87171" stroke="black"/>
+<rect x="203.5" y="60.5" width="20" height="20" rx="10" fill="#FACC15" stroke="black"/>
+<rect x="117.5" y="91.5" width="20" height="20" rx="10" fill="#34D399" stroke="black"/>
+<line x1="53" y1="70.5" x2="74" y2="70.5" stroke="black"/>
+<line x1="92.7154" y1="65.5889" x2="118.715" y2="47.5889" stroke="black"/>
+<line x1="92.2877" y1="77.5911" x2="119.288" y2="96.5911" stroke="black"/>
+<path d="M136.135 48L164.076 65.0712" stroke="black"/>
+<line x1="136.726" y1="96.5818" x2="165.726" y2="77.5818" stroke="black"/>
+<line x1="182" y1="70.5" x2="203" y2="70.5" stroke="black"/>
+</svg>

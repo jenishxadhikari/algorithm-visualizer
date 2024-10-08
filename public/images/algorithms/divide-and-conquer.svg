@@ -1,0 +1,23 @@
+<svg width="256" height="144" viewBox="0 0 256 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="144" fill="#E4E4E7"/>
+<rect x="86.5" y="15.5" width="21" height="11" fill="#818CF8" stroke="black"/>
+<rect x="107.5" y="15.5" width="21" height="11" fill="#F87171" stroke="black"/>
+<rect x="127.5" y="15.5" width="21" height="11" fill="#FACC15" stroke="black"/>
+<rect x="147.5" y="15.5" width="21" height="11" fill="#34D399" stroke="black"/>
+<rect x="86.5" y="117.5" width="21" height="11" fill="#F87171" stroke="black"/>
+<rect x="107.5" y="117.5" width="21" height="11" fill="#34D399" stroke="black"/>
+<rect x="127.5" y="117.5" width="21" height="11" fill="#818CF8" stroke="black"/>
+<rect x="147.5" y="117.5" width="21" height="11" fill="#FACC15" stroke="black"/>
+<rect x="65.5" y="39.5" width="21" height="11" fill="#818CF8" stroke="black"/>
+<rect x="86.5" y="39.5" width="21" height="11" fill="#F87171" stroke="black"/>
+<rect x="86.5" y="93.5" width="21" height="11" fill="#818CF8" stroke="black"/>
+<rect x="65.5" y="93.5" width="21" height="11" fill="#F87171" stroke="black"/>
+<rect x="147.5" y="39.5" width="21" height="11" fill="#FACC15" stroke="black"/>
+<rect x="167.5" y="39.5" width="21" height="11" fill="#34D399" stroke="black"/>
+<rect x="147.5" y="93.5" width="21" height="11" fill="#34D399" stroke="black"/>
+<rect x="167.5" y="93.5" width="21" height="11" fill="#FACC15" stroke="black"/>
+<rect x="54.5" y="66.5" width="21" height="11" fill="#818CF8" stroke="black"/>
+<path d="M96.5 66.5H117.5V77.5H96.5V66.5Z" fill="#F87171" stroke="black"/>
+<rect x="138.5" y="66.5" width="21" height="11" fill="#FACC15" stroke="black"/>
+<path d="M180.5 66.5H201.5V77.5H180.5V66.5Z" fill="#34D399" stroke="black"/>
+</svg>

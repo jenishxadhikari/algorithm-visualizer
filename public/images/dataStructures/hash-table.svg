@@ -1,0 +1,19 @@
+<svg width="256" height="144" viewBox="0 0 256 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="144" fill="#E4E4E7"/>
+<rect x="61.5001" y="40.5" width="16.868" height="39" transform="rotate(90 61.5001 40.5)" fill="#F87171" stroke="black"/>
+<rect x="61.5001" y="60.9264" width="16.868" height="39" transform="rotate(90 61.5001 60.9264)" fill="#34D399" stroke="black"/>
+<rect x="61.5" y="82.632" width="16.868" height="39" transform="rotate(90 61.5 82.632)" fill="#818CF8" stroke="black"/>
+<path d="M108 90.5C97.2304 90.5 88.5 81.7696 88.5 71C88.5 60.2304 97.2304 51.5 108 51.5C118.77 51.5 127.5 60.2304 127.5 71C127.5 81.7696 118.77 90.5 108 90.5Z" fill="#E879F9" stroke="black"/>
+<rect x="154.5" y="33.5" width="40.9048" height="14" fill="#22D3EE" stroke="black"/>
+<rect x="192.595" y="33.5" width="40.9048" height="14" fill="#FB923C" stroke="black"/>
+<rect x="154.5" y="47.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="192.595" y="47.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="154.5" y="61.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="192.595" y="61.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="154.5" y="75.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="192.595" y="75.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="154.5" y="89.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<rect x="192.595" y="89.5" width="40.9048" height="14" fill="#E4E4E7" stroke="black"/>
+<path d="M83.7071 70.7071C84.0976 70.3166 84.0976 69.6834 83.7071 69.2929L77.3431 62.9289C76.9526 62.5384 76.3195 62.5384 75.9289 62.9289C75.5384 63.3195 75.5384 63.9526 75.9289 64.3431L81.5858 70L75.9289 75.6569C75.5384 76.0474 75.5384 76.6805 75.9289 77.0711C76.3195 77.4616 76.9526 77.4616 77.3431 77.0711L83.7071 70.7071ZM68 71L83 71L83 69L68 69L68 71Z" fill="black"/>
+<path d="M147.707 69.7071C148.098 69.3166 148.098 68.6834 147.707 68.2929L141.343 61.9289C140.953 61.5384 140.319 61.5384 139.929 61.9289C139.538 62.3195 139.538 62.9526 139.929 63.3431L145.586 69L139.929 74.6569C139.538 75.0474 139.538 75.6805 139.929 76.0711C140.319 76.4616 140.953 76.4616 141.343 76.0711L147.707 69.7071ZM132 70L147 70L147 68L132 68L132 70Z" fill="black"/>
+</svg>

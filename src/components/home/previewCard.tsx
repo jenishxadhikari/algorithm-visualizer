@@ -19,12 +19,12 @@ export const PreviewCard = ({
   description,
 }: Data): JSX.Element => {
   return (
-    <Card className="mx-auto w-60 bg-secondary/80 md:mx-0">
+    <Card className="mx-auto w-60 bg-secondary/80 md:mx-0 md:w-64">
       <figure className="p-3">
         <Image
           src={img}
-          width={240}
-          height={100}
+          width={256}
+          height={144}
           alt={alt}
           className="aspect-video rounded-md"
         />
